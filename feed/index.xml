@@ -12,31 +12,12 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phungminhton.github.io/baitapcuatoi</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 01 Jun 2021 06:58:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 08:27:02 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>Cá mập</title>
-		<link>https://phungminhton.github.io/baitapcuatoi/2021/06/01/ca-map/</link>
-					<comments>https://phungminhton.github.io/baitapcuatoi/2021/06/01/ca-map/#respond</comments>
-		
-		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Tue, 01 Jun 2021 06:58:11 +0000</pubDate>
-				<category><![CDATA[Cá mập]]></category>
-		<guid isPermaLink="false">https://phungminhton.github.io/baitapcuatoi/?p=59</guid>
-
-					<description><![CDATA[Cá mập con dudududududu]]></description>
-										<content:encoded><![CDATA[<p>Cá mập con dudududududu</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://phungminhton.github.io/baitapcuatoi/2021/06/01/ca-map/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
