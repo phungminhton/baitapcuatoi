@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; My WordPress</title>
+	<title>Sản phẩm &#8211; Cá Mập Page</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phungminhton.github.io/baitapcuatoi</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 10 Jun 2021 08:27:02 +0000</lastBuildDate>
+	<description>Welcome to my Home!</description>
+	<lastBuildDate>Fri, 11 Jun 2021 07:49:01 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
