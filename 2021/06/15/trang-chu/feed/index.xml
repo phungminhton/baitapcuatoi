@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Yame Shop	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://phungminhton.github.io/baitapcuatoi</link>
+	Các phản hồi luận về: Trang chủ	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2021/06/15/trang-chu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phungminhton.github.io/baitapcuatoi/2021/06/15/trang-chu/</link>
 	<description>Welcome to my Shop!</description>
-	<lastBuildDate>Tue, 15 Jun 2021 07:44:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 07:42:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Yame Shop</title>
-	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>YAME SHOP &#8211; Yame Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/yame-shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phungminhton.github.io/baitapcuatoi</link>
 	<description>Welcome to my Shop!</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:42:50 +0000</lastBuildDate>

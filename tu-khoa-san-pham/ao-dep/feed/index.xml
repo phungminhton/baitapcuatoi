@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Yame Shop</title>
-	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<title>Áo đẹp &#8211; Yame Shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ao-dep/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phungminhton.github.io/baitapcuatoi</link>
 	<description>Welcome to my Shop!</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:44:30 +0000</lastBuildDate>
