@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ao-so-mi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phungminhton.github.io/baitapcuatoi</link>
 	<description>Welcome to my Shop!</description>
-	<lastBuildDate>Tue, 15 Jun 2021 10:14:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Jul 2021 06:58:41 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,11 +20,11 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>Sơ Mi Tay Dài Đơn Giản N01</title>
-		<link>https://phungminhton.github.io/baitapcuatoi/sản%20phẩm/so-mi-tay-dai-don-gian-n01/</link>
-					<comments>https://phungminhton.github.io/baitapcuatoi/sản%20phẩm/so-mi-tay-dai-don-gian-n01/#respond</comments>
+		<title>Áo Sơ Mi Tay Dài Đơn Giản N01</title>
+		<link>https://phungminhton.github.io/baitapcuatoi/product/so-mi-tay-dai-don-gian-n01/</link>
+					<comments>https://phungminhton.github.io/baitapcuatoi/product/so-mi-tay-dai-don-gian-n01/#respond</comments>
 		
-		<dc:creator><![CDATA[user1]]></dc:creator>
+		<dc:creator><![CDATA[PhungMinhTon]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 09:42:48 +0000</pubDate>
 				<guid isPermaLink="false">https://phungminhton.github.io/baitapcuatoi/?post_type=product&#038;p=198</guid>
 
@@ -42,7 +42,7 @@ Thành phần: 50% cafe 50% Poly<br />
 + UV Protechtion &#8211; Chống nắng</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phungminhton.github.io/baitapcuatoi/sản%20phẩm/so-mi-tay-dai-don-gian-n01/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phungminhton.github.io/baitapcuatoi/product/so-mi-tay-dai-don-gian-n01/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
